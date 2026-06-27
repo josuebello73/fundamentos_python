@@ -1,0 +1,16 @@
+Fundamentos de python
+- variable
+- operadores matematicos
+- operadores de comparacion    
+- operadores booleanos  
+- operadores logicos
+- estructuras de datos
+    - Cadena de caracteres (strings)
+    - Listas
+    - tuplas
+    - diccionarios
+- estructuras de control
+    - condicionales
+    - bucles
+    -funciones
+- programacion orientada a objetos
